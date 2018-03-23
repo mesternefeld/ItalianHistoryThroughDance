@@ -50,7 +50,7 @@
   $(window).scroll(navbarCollapse);
 
   // Modal popup$(function () {
-  $('.portfolio-item').magnificPopup({
+  /*$('.portfolio-item').magnificPopup({
     type: 'inline',
     preloader: false,
     focus: '#username',
@@ -59,7 +59,7 @@
   $(document).on('click', '.portfolio-modal-dismiss', function(e) {
     e.preventDefault();
     $.magnificPopup.close();
-  });
+  });*/
 
   // Floating label headings for the contact form
   $(function() {

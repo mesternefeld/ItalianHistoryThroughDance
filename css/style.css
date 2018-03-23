@@ -15,10 +15,14 @@
   margin-right: -50%;
   transform: translate(-50%, -50%)
 }
-#video-wrap {
-  float: left;
+#video-wrap-right {
+  float: right;
   margin: 0 20px 5px 0;
   }
+#video-wrap-left {
+  float: left;
+  margin: 0 20px 5px 0;
+}
 #center{
   text-align:center;
 }
