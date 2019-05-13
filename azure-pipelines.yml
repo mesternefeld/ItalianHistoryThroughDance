@@ -16,3 +16,4 @@ steps:
     includeRootFolder: false
 - task: PublishBuildArtifacts@1
 - script: env
+- script: echo My first job
